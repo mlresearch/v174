@@ -29,7 +29,7 @@ order: 169
 cycles: false
 bibtex_author: Tonekaboni, Sana and Morgenshtern, Gabriela and Assadi, Azadeh and
   Pokhrel, Aslesha and Huang, Xi and Jayarajan, Anand and Greer, Robert and Pekhimenko,
-  Gennady and McCradden, Melissa and Mazwi, Mjaye and Goldenberg, Anna
+  Gennady and McCradden, Melissa and Chevalier, Fanny and Mazwi, Mjaye and Goldenberg, Anna
 author:
 - given: Sana
   family: Tonekaboni
@@ -49,6 +49,8 @@ author:
   family: Pekhimenko
 - given: Melissa
   family: McCradden
+- given: Fanny
+  family: Chevalier
 - given: Mjaye
   family: Mazwi
 - given: Anna
